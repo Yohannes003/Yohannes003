@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yohannes003&label=Profile%20views&color=0e75b6&style=flat" alt="Yohannes003" /> </p>
 
-- 💬 Ask me about **Python, OSINT, Web-Pentesting**
+- 💬 Ask me about **Python, OSINT**
 
 - 📫 You can reach me by using **yohannes.g003@gmail.com**
 
