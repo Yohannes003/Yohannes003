@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yohannes Getu</h1>
-<h3 align="center">A passionate python developer and cybersecurity analyst from Ethiopia</h3>
+<h3 align="center">A passionate python developer and cybersecurity analyst</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:721/1*iHhnaIfD1T1q_LKxivmojg.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yohannes003&label=Profile%20views&color=0e75b6&style=flat" alt="Yohannes003" /> </p>
