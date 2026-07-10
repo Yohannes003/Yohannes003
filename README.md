@@ -1,97 +1,27 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0B1622,100:00F0FF&height=220&section=header&text=YOHANNES&fontSize=70&fontColor=00F0FF&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%7C%20Addis%20Ababa%2C%20Ethiopia&descAlignY=58&descSize=18&animation=fadeIn" />
+<h1 align="center">Hi 👋, I'm yohannes</h1>
+<h3 align="center">A passionate Python developer from Ethiopia | Skilled in OSINT, web scraping, and automation | Backend enthusiast with Django | Exploring pentesting and secure system development.</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=00F0FF&center=true&vCenter=true&width=750&lines=Backend+systems+that+scale;Python+%2F+Django+%2F+FastAPI+%2F+PostgreSQL;Cloud-native%3A+Docker+%2B+Kubernetes;React+%2F+Next.js+%2F+Flutter;Building+with+LLMs%2C+RAG+%26+ML+pipelines;Currently+learning+French+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannes003&label=Profile%20views&color=0e75b6&style=flat" alt="yohannes003" /> </p>
 
-<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohannes003" alt="yohannes003" /></a> </p>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_REMOTE_WORK-00F0FF?style=for-the-badge&labelColor=050914&color=0B1622" />
-<img src="https://img.shields.io/badge/LOCATION-ADDIS_ABABA-00F0FF?style=for-the-badge&labelColor=050914&color=0B1622" />
-<img src="https://komarev.com/ghpvc/?username=yohannes003&label=PROFILE+VIEWS&color=0B1622&style=for-the-badge&labelColor=050914" alt="profile views" />
+- 🌱 I’m currently learning **Django , Data science , Machine Learning**
 
-</div>
+- 💬 Ask me about **Python, OSINT , Cyber Security**
 
-<br/>
+- 📫 How to reach me **yohannes.g003@gmail.com**
 
-## `//` About
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yohannes-getu-130720238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yohannes-getu-130720238/" height="30" width="40" /></a>
+</p>
 
-```yaml
-role:      Senior Full-Stack Developer
-focus:     Backend architecture, distributed systems, applied AI/ML
-languages: English, Amharic, French (in progress)
-currently: Deepening Django/FastAPI systems design + exploring LLM-driven tooling
-mindset:   Ship clean, secure, observable systems — automate everything else
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohannes003&show_icons=true&locale=en&layout=compact" alt="yohannes003" /></p>
 
-## `//` Tech Stack
 
-**Languages**
 
-<img src="https://img.shields.io/badge/Python-050914?style=for-the-badge&logo=python&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/TypeScript-050914?style=for-the-badge&logo=typescript&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/JavaScript-050914?style=for-the-badge&logo=javascript&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Dart-050914?style=for-the-badge&logo=dart&logoColor=00F0FF" />
-
-**Backend & Data**
-
-<img src="https://img.shields.io/badge/Django-050914?style=for-the-badge&logo=django&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/FastAPI-050914?style=for-the-badge&logo=fastapi&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/PostgreSQL-050914?style=for-the-badge&logo=postgresql&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Redis-050914?style=for-the-badge&logo=redis&logoColor=00F0FF" />
-
-**Frontend & Mobile**
-
-<img src="https://img.shields.io/badge/React-050914?style=for-the-badge&logo=react&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Next.js-050914?style=for-the-badge&logo=nextdotjs&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Flutter-050914?style=for-the-badge&logo=flutter&logoColor=00F0FF" />
-
-**AI / ML**
-
-<img src="https://img.shields.io/badge/PyTorch-050914?style=for-the-badge&logo=pytorch&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Hugging_Face-050914?style=for-the-badge&logo=huggingface&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/LangChain-050914?style=for-the-badge&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Apache_Airflow-050914?style=for-the-badge&logo=apacheairflow&logoColor=00F0FF" />
-
-**Infrastructure & Tools**
-
-<img src="https://img.shields.io/badge/Docker-050914?style=for-the-badge&logo=docker&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Kubernetes-050914?style=for-the-badge&logo=kubernetes&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Nginx-050914?style=for-the-badge&logo=nginx&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Grafana-050914?style=for-the-badge&logo=grafana&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/AWS-050914?style=for-the-badge&logo=amazonaws&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Linux-050914?style=for-the-badge&logo=linux&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Git-050914?style=for-the-badge&logo=git&logoColor=00F0FF" />
-
-<br/>
-
-## `//` GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yohannes003&show_icons=true&hide_border=true&bg_color=050914&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&ring_color=00F0FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannes003&layout=compact&hide_border=true&bg_color=050914&title_color=00F0FF&text_color=c9d1d9&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yohannes003&hide_border=true&background=050914&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yohannes003&bg_color=050914&color=00F0FF&line=00F0FF&point=ffffff&area=true&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=yohannes003&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
-<br/>
-
-## `//` Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yohannes-getu-130720238/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-050914?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
-<a href="mailto:yohannes.g003@gmail.com"><img src="https://img.shields.io/badge/Email-050914?style=for-the-badge&logo=gmail&logoColor=00F0FF" /></a>
-<a href="https://github.com/yohannes003"><img src="https://img.shields.io/badge/GitHub-050914?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0B1622,100:050914&height=120&section=footer" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohannes003&" alt="yohannes003" /></p>
