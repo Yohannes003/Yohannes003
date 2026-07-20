@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0b1622,100:0e3a4a&height=220&section=header&text=YOHANNES&fontSize=60&fontColor=22d3ee&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20OSINT%20%2F%20SOCMINT%20%7C%20AI%20Systems&descSize=18&descAlignY=58&descColor=8fb8c9"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+intelligence+platforms+from+Addis+Ababa;Senior+Full-Stack+Developer+%40+INSA;Python+%2F+FastAPI+%2F+Django+%2F+React+%2F+Flutter;OSINT+%26+SOCMINT+Tooling+%7C+Applied+ML;Currently+shipping%3A+SELAM+%2B+Gurshago" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+intelligence+platforms+from+Addis+Ababa;Senior+Full-Stack+Developer+%40+INSA;Python+%2F+FastAPI+%2F+Django+%2F+React+%2F+Flutter;OSINT+%26+SOCMINT+Tooling+%7C+Applied+ML" />
 
 </div>
 
