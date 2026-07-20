@@ -1,27 +1,104 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm yohannes</h1>
-<h3 align="center">A passionate Python developer from Ethiopia | Skilled in OSINT, web scraping, and automation | Backend enthusiast with Django | Exploring pentesting and secure system development.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0b1622,100:0e3a4a&height=220&section=header&text=YOHANNES&fontSize=60&fontColor=22d3ee&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20OSINT%20%2F%20SOCMINT%20%7C%20AI%20Systems&descSize=18&descAlignY=58&descColor=8fb8c9"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannes003&label=Profile%20views&color=0e75b6&style=flat" alt="yohannes003" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+intelligence+platforms+from+Addis+Ababa;Senior+Full-Stack+Developer+%40+INSA;Python+%2F+FastAPI+%2F+Django+%2F+React+%2F+Flutter;OSINT+%26+SOCMINT+Tooling+%7C+Applied+ML;Currently+shipping%3A+SELAM+%2B+Gurshago" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohannes003" alt="yohannes003" /></a> </p>
+</div>
 
-- 🌱 I’m currently learning **Django , Data science , Machine Learning**
-
-- 💬 Ask me about **Python, OSINT , Cyber Security**
-
-- 📫 How to reach me **yohannes.g003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yohannes-getu-130720238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yohannes-getu-130720238/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yohannes003&label=PROFILE%20VIEWS&color=22d3ee&style=for-the-badge&labelColor=050914" />
+  <img src="https://img.shields.io/badge/LOCATION-Addis%20Ababa%2C%20ET-0b1622?style=for-the-badge&labelColor=050914&color=22d3ee" />
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Remote%20Roles-0b1622?style=for-the-badge&labelColor=050914&color=C9A84C" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohannes003&show_icons=true&locale=en&layout=compact" alt="yohannes003" /></p>
+```
+┌──────────────────────────────────────────────────────────┐
+│  root@yohannes:~$ whoami --verbose                        │
+│  > Senior full-stack developer & OSINT/SOCMINT engineer   │
+│  > Building government-adjacent intelligence platforms    │
+│  > Stack: Python · FastAPI · Django · React · Flutter     │
+│  > Applying ML/AI to real-world monitoring systems         │
+└──────────────────────────────────────────────────────────┘
+```
 
+</div>
 
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohannes003&" alt="yohannes003" /></p>
+## 📡 About Me
+
+I'm **Yohannes**, a senior full-stack developer based in **Addis Ababa, Ethiopia**, working in a government-adjacent security context at **INSA (Information Network Security Agency)**. I design and build systems that sit at the intersection of software engineering, data intelligence, and applied AI.
+
+- 🛰️ Deep focus on **OSINT & SOCMINT** — building tooling that turns raw open-source signal into structured intelligence
+- 🧠 Actively deepening my **AI engineering** practice — PyTorch, Hugging Face Transformers, LangChain, Airflow
+- ♟️ Chess player, tactics-first improvement track
+- 🇫🇷 Learning French, eyes on francophone African markets
+- 🌍 Building toward senior/staff **remote** engineering roles — Andela, Arc.dev, Proxify, Toptal
+- 📫 Reach me: **yohannes.g003@gmail.com**
+
+<br>
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,js,cpp,cs,java,php,go,bash&theme=dark" />
+
+**Backend & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=django,fastapi,dotnet,postgres,mongodb,mysql,docker,kubernetes&theme=dark" />
+
+**Frontend & Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,flutter,figma&theme=dark" />
+
+**AI / ML / Data**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas&theme=dark" />
+
+**Tools & Platform**
+<br>
+<img src="https://skillicons.dev/icons?i=git,linux,postman,selenium,matlab&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LangChain-0b1622?style=for-the-badge&logo=langchain&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Hugging_Face-0b1622?style=for-the-badge&logo=huggingface&logoColor=C9A84C" />
+<img src="https://img.shields.io/badge/Apache_Airflow-0b1622?style=for-the-badge&logo=apacheairflow&logoColor=22d3ee" />
+
+</div>
+
+<br>
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yohannes003&show_icons=true&count_private=true&theme=tokyonight&bg_color=050914&title_color=22d3ee&icon_color=C9A84C&text_color=8fb8c9&border_color=0b1622" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannes003&layout=compact&theme=tokyonight&bg_color=050914&title_color=22d3ee&text_color=8fb8c9&border_color=0b1622" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yohannes003&theme=tokyonight&background=050914&stroke=0b1622&ring=22d3ee&fire=C9A84C&currStreakLabel=22d3ee&sideLabels=8fb8c9&dates=8fb8c9" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yohannes003&theme=tokyo-night&bg_color=050914&color=22d3ee&line=C9A84C&point=8fb8c9&area=true&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yohannes-getu-130720238/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0b1622?style=for-the-badge&logo=linkedin&logoColor=22d3ee" />
+  </a>
+  <a href="mailto:yohannes.g003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0b1622?style=for-the-badge&logo=gmail&logoColor=22d3ee" />
+  </a>
+</div>
