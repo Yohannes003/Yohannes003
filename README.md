@@ -32,7 +32,7 @@
 
 ## 📡 About Me
 
-I'm **Yohannes**, a senior full-stack developer based in **Addis Ababa, Ethiopia**, working in a government-adjacent security context at **INSA — Information Network Security Agency**.
+I'm **Yohannes**, a senior full-stack developer based in **Addis Ababa, Ethiopia**, working in a government-adjacent security context at **INSA Information Network Security Agency**.
 
 I design and build production systems at the intersection of **software engineering, data intelligence, automation and applied AI**. My work includes distributed backend services, multi-tenant platforms, real-time dashboards, OSINT/SOCMINT collection pipelines, machine-learning workflows and full-stack web and mobile applications.
 
